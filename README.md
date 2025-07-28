@@ -39,11 +39,6 @@ While I had been introduced to similar concepts earlier in my academic coursewor
 
 Big thanks to Basim Nawaz and TechHierarchy for providing such an insightful platform as part of the Cyber Sentinel Program.
 
-## 📸 Project Preview
-
-> (Add screenshots of your topology and simulation results here)
-
-
 ## 🔗 Connect with Me
 
 Feel free to check out more of my work or connect on [LinkedIn](www.linkedin.com/in/sabeela-qureshi-b25484291)!
